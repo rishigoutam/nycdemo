@@ -2,3 +2,4 @@
 data/
 .ipynb_checkpoints/demonotebook-checkpoint.ipynb
 .DS_Store
+demo.db
