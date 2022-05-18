@@ -5,4 +5,5 @@ The talk covers
 * Managing pandas dataframe memory usage through downcasting types
 * Using pre-commit with nbstripout, black, and isort to have good code quality in Jupyter notebooks
 * Using dask when data just doesn't fit in memory
+* Moving from CSV to columnar data stores, such as parquet
 * Using SQL when data is large enough that python is no longer an option
