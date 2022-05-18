@@ -1,3 +1,4 @@
 .idea/
+data/
 .ipynb_checkpoints/demonotebook-checkpoint.ipynb
-data/NY_2019.csv
+.DS_Store

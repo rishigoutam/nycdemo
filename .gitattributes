@@ -1,2 +1,4 @@
 data filter=lfs diff=lfs merge=lfs -text
+data/2019_csv filter=lfs diff=lfs merge=lfs -text
+data/2019_parquet filter=lfs diff=lfs merge=lfs -text
 data/NY_2019.csv filter=lfs diff=lfs merge=lfs -text
